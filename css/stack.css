@@ -1,0 +1,17 @@
+canvas {
+    border:1px solid #d3d3d3;
+    background-color: #f1f1f1;
+}
+button{
+	margin-right: 40px;
+	background-color: blue;
+	color: white;
+	padding: 10px 20px;
+	float: left;
+	position: relative;
+}
+#score{
+	margin-left: 20px;
+	position: relative;
+	float: left;
+}
